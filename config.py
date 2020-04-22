@@ -1,4 +1,4 @@
-TOKEN = 'NzAyMjQ3OTA4Mzg0NDQwNDA0.Xp_eEQ.30pscPvZ8uQRf5lo_19OH_0PWIE' #bot TOKEN
+TOKEN = 'Tj5MpBgPEa-r5cay7kmh5FMX68py_mGM' #bot TOKEN
 
 POST_ID = 702250392825888909 #post id to read reactions from
 
